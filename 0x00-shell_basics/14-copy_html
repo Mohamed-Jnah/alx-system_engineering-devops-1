@@ -1,2 +1,2 @@
 #!/bin/bash
-find -name "*.php" -print0
+find -name "*.html"
