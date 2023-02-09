@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod da+rwx
+chmod du+x
