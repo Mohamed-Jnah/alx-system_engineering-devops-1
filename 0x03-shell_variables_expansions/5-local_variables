@@ -1,2 +1,2 @@
 #!/bin/bash
-compgen -v -A variable && compgen -A function 
+compgen -v | grep -v "^_" && echo && compgen -A function 
