@@ -1,2 +1,2 @@
 #!/bin/bash
-eval "declare -p; printenv; declare -F" 
+set 
